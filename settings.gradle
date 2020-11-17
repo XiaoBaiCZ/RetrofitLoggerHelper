@@ -1,0 +1,3 @@
+include ':RetrofitLoggerHelper'
+include ':app'
+rootProject.name = "LibRetrofitLoggerHelper"
