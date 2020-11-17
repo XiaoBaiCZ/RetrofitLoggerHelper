@@ -2,6 +2,21 @@
 
 > Retrofit / OkHttp 使用的 Logger 助手
 
+##### 添加方式
+~~~
+allprojects {
+  repositories {
+    ...
+    maven { url 'https://www.jitpack.io' }
+  }
+}
+~~~
+~~~
+dependencies {
+  implementation 'com.github.XiaoBaiCZ:RetrofitLoggerHelper:Tag'
+}
+~~~
+
 ##### 使用例子
 [使用例子](https://github.com/XiaoBaiCZ/RetrofitLoggerHelper/blob/master/app/src/main/java/cc/xiaobaicz/demo/MainActivity.kt)
 
