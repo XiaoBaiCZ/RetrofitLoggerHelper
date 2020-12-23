@@ -13,7 +13,7 @@ allprojects {
 ~~~
 ~~~
 dependencies {
-  implementation 'com.github.XiaoBaiCZ:RetrofitLoggerHelper:0.1'
+  implementation 'com.github.XiaoBaiCZ:RetrofitLoggerHelper:0.2'
 }
 ~~~
 
